@@ -26,7 +26,7 @@ timeout = "10s"
 path = "/"
 
 [[services]]
-internal_port = 222
+internal_port = 2222
 protocol = "tcp"
 
 [[services.ports]]
